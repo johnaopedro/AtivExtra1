@@ -1,5 +1,5 @@
 # AtivExtra1
-FGA0158 - Orientação por Objetos - Atividades extras
+FGA0158 - Orientação a Objetos - Atividades extras
 
 UnB - Universidade de Brasilia
 FGA - Faculdade do Gama
