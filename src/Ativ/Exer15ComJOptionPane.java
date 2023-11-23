@@ -25,7 +25,7 @@ public class Exer15ComJOptionPane {
         JOptionPane.showMessageDialog(null, msg);
         for (int i = 0; i < lin; i++) {
             for (int j = 0; j < col; j++) {
-                String numero = JOptionPane.showInputDialog("Elemento na posição ["+i+"]["+j+"]:");
+                String numero = JOptionPane.showInputDialog("Elemento na posição ["+(i+1)+"]["+(j+1)+"]:");
                 M1[i][j] = Integer.parseInt(numero);
             }
         }
@@ -34,7 +34,7 @@ public class Exer15ComJOptionPane {
         JOptionPane.showMessageDialog(null, msg);
         for (int i = 0; i < lin; i++) {
             for (int j = 0; j < col; j++) {
-                String numero = JOptionPane.showInputDialog("Elemento na posição ["+i+"]["+j+"]:");
+                String numero = JOptionPane.showInputDialog("Elemento na posição ["+(i+1)+"]["+(j+1)+"]:");
                 M2[i][j] = Integer.parseInt(numero);
             }
         }
